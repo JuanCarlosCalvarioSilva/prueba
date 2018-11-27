@@ -1,4 +1,4 @@
-<?php session_start(); 
+<?php session_(); 
 //datos para establecer la conexion con la base de mysql.
 require "cfg/conexion.php";
 
